@@ -1,4 +1,3 @@
-# first_website_project
 <!DOCTYPE html>
 <html lang="en">
 	<head>
